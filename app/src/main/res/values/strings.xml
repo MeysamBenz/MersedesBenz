@@ -1,0 +1,487 @@
+<resources>
+    <string name="app_name">MERcedes_BEnz</string>
+    <string name="title_activity_c__class">C_Class</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text"></string>
+    <string name="action_settings">Settings</string>
+
+
+    //==============================================================================================
+
+    <string name="Aclass1997">The Mercedes-Benz A_Class has been different things at different times during its relatively short lifespan -- the nameplate is 20 years old -- and for all 20 of those years Mercedes has declined to offer it in America. Until now.
+        Automotive News reports that Mercedes will introduce the upcoming A-Class sedan in the U.S., positioned below the CLA-Class sedan in the automakers most affordable side of the lineup.
+
+But how did the upcoming A_Class change Mercedes mind after all these years?
+
+The original W168-generation A-Class debuted in 1997 as a small and very tall upright hatch looking like a large four-door Smart.
+        The innovative engineering allowed for a very short nose and overhangs while maximizing interior space -- it was a car designed for European cities where space is at a premium.
+        The first-generation A-Class sold well despite an early stumble: Mercedes had to recall all debut models after several weeks of sales to revise their suspension and fit them with stability control systems after journalists in Sweden rolled one car in an elk avoidance test.
+
+But the original A-Class won a following thanks to a versatile interior and thrifty engines, even inspiring competition in the form of the Audi A2, Renault Megane and Volkswagen Touran, among others.
+        And like a number of other Mercedes models, the A-Class was never offered in the States as it was deemed to occupy a segment that simply did not exist and was not in demand; the U.S. market was preoccupied with SUVs of ever-increasing size at the time. (Sound familiar?)
+        
+    </string>
+
+
+    <string name="Aclass2005">The second-generation A-Class debuted in 2004 and mostly kept the pocket-size MPV profile of the original, pulling the small Mercedes in a more hatch-like direction.
+        A two-door model was offered for the first time to compete with other tall hatches like the Volkswagen Golf Plus and a number of small French hatches and MPVs that had come to rule the segment.
+        Mercedes has softened up the suspension of this second-generation model, once again offering a range of thrifty four-cylinder engines, starting with the 2.0-liter diesel A160CDI and the 1.5-liter gasoline A150, and topping out with the 2.0-liter gasoline A200 Turbo.
+        This segment did not attract any followers in the U.S. at the time, despite a fairly significant hike in gas prices around 2005 through 2007, and absent demand for this model Mercedes chose not to offer it in the States.
+Mercedes-Benz W169 A-Class
+    </string>
+
+
+    <string name="Aclass21012">The A-Class became a traditional-looking hatchback only in its third generation, which debuted in 2012.
+        This time around, Mercedes used the A-Class platform to develop the CLA-Class four-door sedan for the U.S. market and the GLA-Class pocket SUV, both of which were offered in AMG flavors. 
+        The GLA45 AMG, in particular, was effectively the closest vehicle to the European-market A-Class given its hot-hatch handling and lower ride height, compared to the standard GLA 250 model. Collectively, the CLA- and the GLA-Class models demonstrated the U.S. markets desire for small Mercedes cars, which had earlier been kept out due to a perceived threat of brand dilution due to price and interior quality, with the W203-generation C230 Sportcoupe reinforcing this belief for a number of years.
+
+Even though the third-generation A-Class hatch became a true VW Golf alternative, Mercedes did not deem it prudent to offer a hatch in the States alongside the sedan, still believing the U.S. market could only absorb a four-door sedan even if the rest of the world wanted a small Mercedes hatch for its practicality.
+        The CLA-Class sedan, meanwhile, offered a cramped interior and a tiny trunk that gave the U.S. a small sedan with the three-pointed star, but gave buyers none of the versatility of the hatch. The CLA sedan initially enjoyed strong sales due to its novelty and $29,000 starting price, but toward the end of its product cycle the novelty began to wear a bit as Mercedes introduced a small GLA 250 SUV for about the same price.
+    </string>
+
+    <string name="Aclass">With the impending debut of the A-Class sedan following the lineups redesign in the U.S. next year, Mercedes is still hedging its offerings, pointing to the W203-generation C230 Sportcoupe as proof of Americans aversion to luxury hatchbacks.
+        We expect brand positioning still plays a role in decisions like these, with the upcoming A-Class sedan viewed as an entry-level luxury model rather than a bare-bones sedan positioned below the CLA-Class.
+        The timing of the decision is curious, however -- the market is once again heading for large SUVs as it did in the mid-1990s.
+
+The difference this time around may be the fact that the CLA- and GLA-Class cars actually proved to Stuttgart through sales figures alone that it's worth fielding small cars, as long as they don't try to take the VW Golf head-on.
+        The GLA 45 AMG can still spray gravel in the Golf's face from a much higher price point, but neither it nor the A-Class hatchback will win over budget hatch buyers, especially at the cost of brand perception for the company.
+        This is why a sedan still makes sense to Mercedes, knowing that it's best to not compete with much cheaper hatchbacks.
+    </string>
+
+    //==============================================================================================
+
+    <string name="C2000">In October 1986, three years into Mercedes-Benz W201 (190)s production run, work began on a successor. Design work began in 1987, with the final design by Murat Günak being selected in 1989 and the production design by Olivier Boulay delayed in January 1990, finally being patented on 19 December 1990.[1][2][3][4] Rough prototypes went into testing in 1989, with first production design prototypes commencing testing in 1990. 
+        In May 1993, the first generation W202 C-Class was introduced as a replacement for the 190. The C-Class sedan was the company's entry-level model up until 1997, when Mercedes launched the A-Class. Styling themes were carried over from the previous W201 series, but the new series had a smoother and rounder design than the previous generation of compact Mercedes, with styling cues from the W124 E-Class (short, high trunk and taller tail lights), W140 S-Class (front end), and R129 SL-Class (headlights).
+    </string>
+
+    <string name="CClass2012">DaimlerChrysler introduced the W204 C-Class on 18 January 2007[9] and displayed it in the 2007 Geneva Auto Show. Sales started on 31 March 2007 in almost all European countries. The new family had an extended wheelbase and tracks, a stiffer bodyshell and a design inspired by the W221 S-Class with some influences from the C219 CLS-Class. The C-Class received a facelift in 2011 for the 2012 model year including new LED taillights, a revised dashboard and instrument cluster layout, and a revised front fascia and headlights.
+    </string>
+
+    <string name="C63">The entire Mercedes C-class lineup has been given a refresh for 2019, and the Germans have saved the most powerful models—the Mercedes-AMG C63 sedan, coupe, and cabriolet—for last. As with the standard 2019 C-class cars and the punchy 385-hp Mercedes-AMG C43 models, the 2019 C63s feature revised styling, with the new Panamericana grille that marks AMG’s most potent products making the C63’s transformation more pronounced. Other styling changes include the appearance of a horizontal blade within the lower air intakes, slightly reworked taillamps, new chrome quad tailpipes, and a bolder-looking diffuser treatment below the bumper.
+
+Like their siblings, the C63s have a new, standard 10.3-inch COMAND display screen for infotainment and other controls. Optional is a 12.3-inch fully digitized instrument cluster, operated via new touch-sensitive thumb-pad controls on the redesigned flat-bottom steering wheel. Newly optional this year is an AMG Drive Unit that includes a round driving-mode dial tucked beneath the right spoke of the steering wheel; it’s not unlike the one on Porsches equipped with the Sport Chrono package, only the controller on the AMG cars has an integral display screen and the system also includes two configurable color display buttons under the left steering-wheel spoke. (This setup first debuted on the AMG GT 4-Door.) Other nifty new functions for 2019 include an AMG Track Pace option that logs track data and shows visualizations of racetracks as well as sector and lap times in the instrument cluster; it can also show graphics in the optional head-up display of track corners, braking points, speed recommendations, and best times.
+    </string>
+
+    <string name="CClassSadan">With striking style, a luxurious interior and the latest safety and driver-assist technology, the Mercedes-Benz C-Class is one of the best small sport-luxury sedans, coupes and convertibles available. More than just a scaled-down model with a few three-pointed stars stuck on it, the C-Class exhibits the core strengths of the brand, with cutting-edge features, lively performance and a feeling of solidity. Fans of performance cars can choose the AMG versions, which boast blistering acceleration and tenacious handling, along with tastefully sporty styling accents.
+
+Head-turning style plays a major part in the small Benz's appeal, with the C-Class drawing inspiration from its bigger stablemates. The front and rear fascias of the latest generation are instantly recognizable as part of the Mercedes family, while the side views provide a new take on the classic look, with sleek lines and a modern profile. In the past, the cabin of the Mercedes-Benz C-Class wasn't up to the brand's historical standards in terms of quality, but Mercedes has rectified that issue in recent years.
+    </string>
+
+    <string name="C1999">In this pastoral countryside that soothes the spirit with gentility and tranquility, the scenery streams by like you were sitting in your easy chair, watching a travel video. The smallest Mercedes sedan cruises effortlessly and silently, with only a muted whine hinting at the supercharged power when the right pedal is depressed hard.
+
+The C-Class sedans are making a strong value statement for Mercedes-Benz. It led the way with entry products such as the SLK, CLK and ML320 that are more affordable yet keep the M-B core values. When the C-Class came on the market, it was priced just below $30,000 and has stayed close to that figure despite many improvements.
+
+This year, the entry-level C230 adds much more power in its transformation into the C230K. In the past, Mercedes created a lot of their mystique using superchargers. During the '30s their SSK models were some of the most admired touring cars, noted for their long hoods and "Kompressor" power. Then they nearly dominated racing during that same period, using the supercharged
+    </string>
+
+    <string name="CClassCoupe">In an old mill in 1967, two automotive engineers with a passion for motorsports began turning Mercedes-Benz sedans into winning racecars. Today, as the performance division of Mercedes-Benz, AMG continues to create victory on the track and desire on the streets of the world. Every Mercedes-AMG vehicle is the product of craftsmen, designers and engineers who live to test limits, and for a singular goal: Driving Performance.
+    </string>
+
+    //==============================================================================================
+
+    <string name="CLK280">The second-generation CLK range arrived in Australia in late 2002 to a positive reception for its true four-seat capacity, quiet-ness and refinement even with a cloth top.
+
+Last year Benz updated the CLK with a couple of new V6 drivetrains, including the CLK280, and despite the name, this is actually a 3.0-litre.
+
+It includes double overhead camshafts, four valves per cylinder and variable timing for the inlet and exhaust valves- all things its 2.6-litre predecessor lacked.
+
+The CLK280 jumps in power by 45 kW and in torque by 60 Nm. Acceleration times are understandably quickened, but Benz also claims a fuel consumption improvement.
+
+That's partly the V6's efficiency but also the superb seven-speed auto it drives through to the rear wheels. It is a fine, intuitive gearbox matched to a smooth, keen engine.
+
+Avantgarde is the sportier of two trim options offered for the CLK280. The other is Elegance, which is $3000 cheaper.
+
+Standard Avantgarde equipment includes front and head/thorax airbags, ABS, stability control, dual climate control, unique 17-inch wheels, bi-xenon headlights and leather and aluminium trim.
+    </string>
+
+    <string name="CLK_GTR">As the Deutsche Tourenwagen Meisterschaft/International Touring Car Championship had folded in late 1996, with both remaining competitors Opel and Alfa Romeo leaving due to the high costs of their 4WD designs, Mercedes-Benz had no top series to compete in. With the success of the BPR Global GT Series leading to the FIA taking over and turning it into an international series known as the FIA GT Championship, Mercedes-Benz saw an opportunity to go against manufacturers like Porsche and Ferrari.
+
+Following the design that Porsche had laid out with their 911 homologation special, the GT1, Mercedes-AMG was tasked by Mercedes-Benz with creating an extreme racing car that still maintained some elements of a normal street legal car. AMGs designers created a car which shared some design elements with the Mercedes-Benz CLK, yet had all the standard features of a racing car underneath. A Mercedes-Benz M120 V12 engine would be at the heart of the car, mounted behind the cockpit. The bodywork would be made entirely of carbon fibre, and would feature many aerodynamic design elements and cooling openings in order to survive on the race track.
+
+To test the CLK GTR before the first chassis were built, Mercedes-AMG actually took an unusual measure. Through secrecy, Mercedes-AMG was able to purchase a disused McLaren F1 GTR, the defending BPR GT series champion, from Larbre Competition. This purchase first allowed Mercedes-AMG to see the kind of lap times that their competitors could run, to serve as a measurement of the CLK GTRs abilities. However, more importantly, Mercedes-AMG set about modifying this F1 GTR by attaching bodywork that was meant to go on the CLK GTR. Mercedes-Benz also used their own LS600 6.0 liter V12 engine in place of the BMW V12 unit.[7] This allowed Mercedes-AMG to be able to perfect the aerodynamics of the car before it had even been built.
+
+Upon completion of the first two prototypes a mere 128 days after the initial drawings had been made, the CLK GTRs were entered into the 1997 FIA GT Championship season, debuting at the season-opener at one of Mercedes-Benz's home tracks, the Hockenheimring. Unfortunately the new cars were not able to shine, as brake problems eliminated one car after five laps, and the other finished over 20 laps behind the winning McLaren. However, by the next round at Silverstone, the CLK GTR began to show its pace, finishing less than a second behind the winning McLaren. By the fourth round, returning to Germany for the Nürburgring, a third CLK GTR was added to the team. In this race, Mercedes-Benz successfully outperformed the fleet of McLarens, taking first and second places. The team would finish out the season with five more wins, at A1-Ring, Suzuka, Donington, Sebring, and Laguna Seca, allowing them to secure the team championship as well as the drivers championship for Bernd Schneider.
+
+Mercedes-Benz would use the CLK GTR for the first two rounds of the 1998 season before upgrading to the CLK LM. However privateer team Persson Motorsport would campaign two CLK GTRs throughout the entire season, taking a best finish of second at Oschersleben before finishing the year third in the teams championship.
+    </string>
+
+    <string name="CLK350">
+ TRANSMISSION	7-spd w/OD
+ POWER	268 @ 6000 rpm
+ MORE	View All Specs
+4.5 out of 5  (2 Owner Reviews)
+2007 CLK-Class Overview
+The Mercedes-Benz CLK feels right in just about any role. Its good looking, stylish, sporty to drive and personal, yet it will work for two couples during an evening on the town. Those who prefer understated, buttoned-down elegance will like CLK Coupe. Extroverts and sun worshippers can choose the one-button convertible top on the CLK Cabriolet.
+For 2007, the V8-powered CLKs have new engines. The CLK550 gets the latest-generation Mercedes V8, with variable valve timing and 27 percent more power than the engine in the 2006 CLK500, yet the same EPA mileage ratings as before. The new CLK63 AMG has a race-inspired V8 built start-to-finish by one technician at the companys AMG high-performance subsidiary.
+
+The new engines mean a slight change in model nomenclature, but the CLK lineup really has not changed. Theres still a coupe and convertible, with either a V6 or V8 engine. The super-fast AMG model is available only as a convertible.
+
+The CLK has rear-wheel drive in a class increasingly populated by front-wheel-drive and all-wheel-drive cars, and it has a sporting flair some mid-size luxury cars lack. In general, the CLK is one of the sportiest cars in the Mercedes lineup. Most buyers will be quite happy with the CLK350 and its 268-horsepower V6. With its seven-speed automatic, the CLK350 delivers a fine balance of spirited acceleration, quiet cruising and decent fuel mileage.
+
+Drivers who demand more performance can choose the CLK550. Its new V8 generates 382 hp and an even more impressive 391 pound-feet of torque. (Torque is that force that launches the car from intersections and propels it up hills.) Measured by acceleration and engine response, the CLK550 meets just about any standard of high performance. The CLK550 transmits a feeling of being more stuck to the road than the CLK350 does, with sharper handling and better high-speed stability.
+
+The limited-production CLK63 AMG goes a couple of magnitudes better. It will out-accelerate, out-brake and out-corner all but a handful of four-place cars anywhere. Yet around town it's incredibly docile and belies its 475-hp AMG engine.
+
+On the open road, the CLK, no matter the model, is satisfying, responsive and exceptionally stable at high speeds. It inspires confidence on twisty roads and bears up well in a spirited drive. It's also easy to live with. Its ride is firm, but not intrusive. Its relatively small size makes it easy to park and maneuver in crowded city centers, but its back seat is roomy enough for two adults.
+    </string>
+
+    <string name="CLK320">In a constant attempt to keep up with ever-tougher competitors, some carmakers seem to upgrade or redo models at a dizzying pace. (Note that, sadly, speedy model replacement is seldom a trait of American carmakers, but thats a beef to be taken up at another time.)
+
+So here we have the next Mercedes-Benz CLK, a model that already sells well. (2002 sales are actually slightly ahead of last years, a rare phenomenon when an update is due.) Still, this new CLK is almost entirely new, save the motor under the hood of the CLK320, the V-6 model. (The CLK500 is fresh even under the hood, now having a 5.0-liter V-8 versus the 4.3-liter V-8 housed in the 2002 CLK430.)
+
+The new $43,900 CLK320 is only about $700 more expensive than the 2002 model, but is longer, wider and larger inside, a bit less sporty, a bit more sexy and festooned with many upgrades bestowed upon it from far more expensive Benzes, like the S-Class and CL-Class cars. Among these are the slightest details, like the intuitive electric window switches, but also more significant ones like the arrangement and style of the gauges, the side-view mirror that automatically drops to show the curb when you throw the car into reverse and the tilt/telescoping steering wheel. But there's also something we hope nobody ever needs--dual side airbags and head protection airbags, all standard.
+    </string>
+
+    //==============================================================================================
+
+    <string name="Cls_new">Following the global unveiling of the third-generation Mercedes-Benz CLS, Mercedes-Benz UK has just unveiled the pricing and specification for the all-new shooting brake. At launch, UK customers will have the full range of six-cylinder engines – 350 d, 400 d and 450 and 4MATIC all-wheel drive as standard.
+
+Both the 350 d and 400 d packs a new in-line six-cylinder diesel engine producing 286 hp/600 Nm and 340 hp/700 Nm respectively. The CLS 350 d completes the century sprint in a blistering 5.7 seconds while the more powerful 400 d takes only 5 seconds flat. Both variants have a limited top speed of 250 km/h.
+    On the other hand, the CLS 450 features a 3.0-litre bi-turbo six-cylinder petrol hybrid. The internal combustion engine which produces 367 hp and 500 Nm is further boosted by Mercedes-Benz’s EQ boost 48-volt inline starter generator technology, giving an additional 22 hp and 250 Nm of twisting force. Century sprint is done in 4.8 seconds onwards to a limited top speed of 250 km/h. Regardless of engine choice, power is deployed to all four corners.
+
+All UK-bound CLSs are available exclusively in the AMG Line with standard equipment including 19-inch AMG alloy wheels, parking package, reverse camera, leather upholstery, 12.3-inch Audio 20 infotainment system, 12.3-inch LCD instrument cluster, 64 colour ambient lighting and Agility Control suspension.
+   Other optional equipment include Burmester surround sound system, 360-degree camera, powered sunroof, Airmatic air suspension, Nappa leather upholstery and Driving Assistance Plus advanced driver assist system.
+
+Prices for the Mercedes-Benz CLS starts from £57,510 (RM314k) for the CLS 350 d to £60,410 (RM330k) for the range topping CLS 400 d. Stay tuned for Mercedes-Benz Malaysia (MBM) to introduce this sleek fastback to the Malaysian market sometime in 2018.
+    </string>
+
+    <string name="Cls2013">
+        Obsidian Black
+Black Leather Interior with Poplar Wood Grain Inlay
+ only 35,500kms! (Average mileage for 2017 model!)
+ Full Comprehensive Service History @ Mercedes-Benz Agents
+ Balance of Mobilo 120 Maintenance Plan (Expiry: January 2019 or 120,000kms!)
+Extended Warranty Options Available.
+ Complete Full House
+ Leather Sport Multi-Function Steering Wheel
+ "7G-MCT" Dual-Clutch Auto Transmission with Sequential Manual Mode
+ 19" 5-Spoke Design Light Alloy Wheels
+ Glass Sunroof (Tilt/Slide Function)
+ Harman Kardon LOGIC7® Sound System with 6 CD Changer/AUX/HardDrive/Bluetooth Audio
+ COMAND APS(Navigation  Infotainment System)
+ Parktronic PDC (Front  Rear)
+ Active Lane Change and Blind Blind Spot Assist
+ Airmatic (Air Suspension)
+ Reverse Camera
+ Keyless ENTRY/GO System
+Cruise Control with DISTRONIC PLUS (Self-Braking, Collision Prevention Assist)
+ Sport/Comfort Ride (Continuously Variable Hydro-Electric Shock Absorbers)
+ LED Intelligent Headlights with Auto Washer System
+ Night-Vision Infrared Display
+ 10 x Airbags (Front  Side, Driver Passenger, Rear Occupants Side Bags  Curtain Rails)
+ 300KW/600nM 4.7l Turbo-V8 Motor! 0-100km/h in 5.2 secs, Top Speed: 250km/h (Limited)
+ Average Combined Cycle Consumption: ONLY 13.5l/100kms!
+ All Owners Books and Manuals Available
+ Remote Spare Keys Included
+ 1 Owner from Demo.
+    </string>
+
+    <string name="Cls2015">This "ClS400 Is One Owner Car And it's loaded with:Navigation!Power Sunroof!Backup Camera!BLuetooth!!Blind Spot Sensor!Power Tilt/Telescoping Steering Column!Heated Front Seats -inc: 14-way adjustable power front seats w/memory and 4-way lumbar support!Dual Zone Front Automatic Air Conditioning!Steering Wheel w/Auto Tilt-Away!!Parktronic w/Active Parking Assist Automated Parking Sensors! Rain Detecting Variable Intermittent Wipers w/Heated Jets!8 Speakers!Cruise Control!FOB Controls -inc: Trunk/Hatch/Tailgate, Windows and Sunroof!Homelink Garage Door Transmitter!Power 1st Row Windows w/Front And Rear 1-Touch Up/Down!Power Anti-Whiplash w/Tilt Front Head Restraints and Power w/Tilt Rear Head Restraints!Power Door Locks w/Autolock Feature! Push Button Start!6-Disc CD, MP3 Player, Clock, Speed Compensated Volume Control, Aux Audio Input Jack, Steering Wheel Controls, Voice Activation, Radio Data System, Weatherband, External Memory Control and 10 Gb Internal Memory!SIRIUS Satellite Radio!18"Alloy Rims
+Compare our vehicles and reputation to others and compare for yourself. Everything we do is focused on providing absolute clarity so that you can make an informed decision and buy with confidence, worry free.
+All prices are all-inclusive, only tax and licensing extra. No hassles, no haggles, no hidden admin or other fees, just our best price, first! Prices include Full Comprehensive Inspection, Reconditioning, Safety Check, Emission Test, Full Detailing, Free CarProof Report and 36 Day Safety Warranty. Real pictures and full vehicle descriptions are provided for over 1200 in-stock vehicles to help you with your research, and we ship seamlessly all across Canada.
+To simplify your experience, our Financial Advisors will take ambiguity out of the financing or leasing process, and help ensure you get the lowest rates possible for any credit situation.
+When it's time to service you vehicle, we're committed to delivering the utmost value and our service department is equipped to get you back on the road as quickly as possible.
+    </string>
+
+    <string name="Cls2012">Base CLS63 AMGs come with a direct-injected, twin-turbo, 5.5-liter V-8 producing an ample 518 hp and 516 lb-ft—more than enough for the average Joe. We, and you, are not average. For people like us—well, people like us but with real money instead of imaginary fortunes—Mercedes offers the AMG Performance package. The $7300 option pack costs about as much as the high-mileage, mid-’90s S-classes that are more within our reach. Unlike those cars, however, the AMG group includes red brake calipers, a sport suspension, a lip spoiler and engine trim fashioned from carbon fiber, and most important, a power bump to 550 hp and 590 lb-ft. The governor gets upped from 155 mph to 186, too. If you can afford the CLS63’s $95,775 starting bid, go for the Performance pack over the old S-class.
+
+    </string>
+
+    //==============================================================================================
+
+    <string name="E2009Coupe">The 2009 Geneva Motor Show sees the comeback of an intriguing product idea with the Mercedes-Benz E-Class Coupé. Just three months after the presentation of the E-Class Saloon, the brand is launching a highlight in the new model series while continuing a tradition that has repeatedly met with great enthusiasm throughout the history of the E-Class.
+
+The new Mercedes-Benz E-Class Coupé offers a very special combination of two attributes for which the Mercedes brand is known: fascination and efficiency. With its classic coupé side aspect - no B-pillars and fully retractable side windows - the new two-door car is a particularly sporty interpretation of the E-Classs dynamic design. At the same time the most aerodynamic variant of the Coupé achieves a new world best in terms of drag coefficient: with a Cd-figure of just 0.24, this model is the worlds most aerodynamically efficient series-production car. The model programme includes two new 4-cylinder engines, which consume up to 17% less fuel whilst offering a significant increase in performance and torque.The new Mercedes-Benz E-Class Coupés standard-fit AGILITY CONTROL suspension adjusts automatically to the current driving situation. It combines driving enjoyment and excellent handling with maximum comfort.
+    The new Coupé offers all the technical innovations of the new Mercedes-Benz E-Class series that one might expect to find in a sports-oriented luxury coupé. These include selective damper control, drowsiness detection, preventive occupant protection and the Active Bonnet. As a feature specific to the Coupé, the Dynamic Driving package allows different suspension setups at the touch of a button. Adaptive Main Beam Assist and an automatic emergency braking system are also features with which the new series sets standards in this vehicle category.
+
+The E-Class also takes on a pioneering role in the drive sector. The new diesels and direct-injection petrol engines combine efficiency with an effortless power delivery. The engine line-up includes two new four-cylinder models which deliver significantly more power and torque while consuming up to 17 percent less fuel. The best example is the E 250 CDI BlueEFFICIENCY Coupé, which consumes 53.3 mpg emits 139 grams of CO2 per kilometre, making it one of the most economical vehicles in its class.
+
+The exemplary, fuel consumption has not only been achieved because of the new engines, but also with a number of practical measures. These include on-demand activation of the steering and fuel pumps, the use of tyres with low rolling resistance and an alternator control system which takes account of the current driving situation and the vehicle's electrical power requirements, plus the very decisive factor of outstanding aerodynamics.
+    </string>
+
+    <string name="E2015">CK AUTO IMPORTS is pleased to announce the arrival of this 2015 Mercedes Benz E550 Convertible. Finished in the most desirable combination of BLACK with BLACK Leather this immaculate, well maintained, pre-owned E550 CONVERTIBLE is in extraordinary original condition. The paint looks flawless and has a deep luster and brilliant shine. The interior is covered in BLACK Leather and shows very little wear. All power options and accessories work perfectly; the air conditioning is ice cold, the stereo sounds fantastic, and there are no foul odors of any kind
+    </string>
+
+    <string name="E2017">
+
+        Every brand has its darling. For BMW, it’s the 3-series. At Honda, it’s the Accord. And for Mercedes-Benz, it is the E-class, the popular and prolific mid-size luxury car that’s been buttering the bread in Stuttgart for nine vehicle generations, soon to be 10. But despite its crucial position in the product range, the E-class was last in line among Benz sedans to get refashioned in Mercedes’ new “Sensual Purity” design language that did wonders for the S-class in 2014 before the C-class adopted it one year later. The outgoing E-class did receive a major restyling for 2014 to hold it over before replacement, but now the long wait for the new car is over. The all-new, “sensually purified” 2017 E-class has made its official debut at the 2016 Detroit auto show.
+
+Embodiment of Modern Mercedes Design
+With the arrival of the 2017 E-class, we find that the signature look for this generation of Mercedes-Benz cars is no less beautiful in size medium. While its predecessor appeared rather stiff, even after the mid-cycle update, the new car’s cab-rearward profile, fluted body sides, and gently sloping tail convey a relaxed elegance. Lovely though it may be, little about the E-class’s design actually breaks much new ground. All of the signature identifying marks—grille, headlamps, taillamps, and windows—are translated more or less verbatim from the other Benz sedans. The E-class appears to have moved the needle inside the lights, however, with futuristic LED matrix headlamps (unlikely for the U.S.) and new “stardust effect” taillamp illumination, but it may take an eagle’s eye to tell the E-class apart from its siblings until you’re close enough to read the badge.
+    </string>
+
+    <string name="E1999">The Mercedes-Benz W210 is an executive car which was produced by the German automaker Mercedes-Benz from 1995 through 2002 (production of the wagon variant (codenamed S210) carried over to the 2003 model year). They were sold under the E-Class model names in both sedan (saloon) and station wagon (estate) body types. W210 development started in 1988, three years after the W124s introduction. The W210 E-class appearance, which was designed by Steve Mattin under design chief Bruno Sacco between 1989 and 1991, heralded a new design idiom for Mercedes, which would continue until the W209 CLK. W210 design work was frozen in May 1992 and developed for a show vehicle by late 1992. This design was previewed on the 1993 Coupé Concept shown at the Geneva Auto Show in March 1993. Design patents for both the Coupé Concept and the W210 E-Class were filed on 25 February 1993 in Germany and 25 August 1993 in the US.[6][7][8][9][10][11]
+
+On 21 July 1998, design patents were filed on an updated W210 (designed in 1997).[12][13][14] As a result, for the 2000 model year, a new multi-function information system was incorporated into the instrument cluster below the speedometer, and the introduction of steering wheel controls for the audio/navigation/phone system. In addition, the 5-speed automatic transmission introduced "Touch Shift," which used the +/- gate positions for semi-manual control of the gearbox. This electronic system replaced the previous gated shift arrangement and simplified gear changes. Exterior changes included a revised front with a steeper rake, similar to the CLK, and restyled bumpers and lower body trim; additionally, sedans received new taillights, while the wagon's tailgate was redesigned, moving the CHMSL from the base of the rear window to directly above it in the underside of a small integral spoiler lip. The final W210 production included the E320 and E430 special editions released in two exterior colors - quartz silver (limited edition), obsidian black, and with Xenon lights, 17-inch alloy wheels and black maple walnut trim. Estate cars (sedans optionally) had Citroen-like self-leveling rear suspension with suspension struts rather than shock absorbers, gas-filled suspension spheres to provide damping and an under bonnet pressurizing pump. Unlike the traditional Citroën application Mercedes opted for a fixed ride height and employed rear coil springs to maintain the static ride height when parked.
+    
+    </string>
+    //==================================================================================================
+
+
+    <string name="G65">After almost forty years in the Mercedes family, the Mercedes-Benz G-Class is starting to be phased out. The first model to go is the Mercedes-AMG G65. The G-Wagen has only received minor updates throughout its existence, mostly just to keep the tech fresh.
+
+Compared to modern SUVs, crossovers, and competitors, the G65  has three locking differentials and a twin-turbo V12. To celebrate the G-Class’ legacy and end of G65 production, Mercedes-AMG has revealed the G65 Final Edition.
+There will only be 65 units produced worldwide. The Final Edition retains the twin-turbo V12 (630 horsepower and 738 pound torque) hitting 60 mph in 5.3 seconds.
+
+More than a third of all G-Class variants come from AMG, so it makes sense to celebrate the end of G65 production.
+
+Most of the changes are visual, not under the hood. True to it’s legacy, the G65 Final Edition sports bronze accents on the underride guard, bumpers, 21-inch wheels, and mirrors.
+
+The black grille is outlines bronze and the running boards and exhaust tips are done in matte black. This subtle feel is a calm and regal bow to the generations before the G65, giving it a more luxurious and conservative feel. The cab, seats and leather will also sport that familiar bronze, but the seats will have a darker, more brown stitching.
+</string>
+
+    <string name="G_Class2018">The first pictures of the 2018 Mercedes G-Class have landed after the SUV’s official debut at the Detroit Motor Show in January. The photos show a familiar shape but small details mark out the latest G-Class from the previous model. The biggest changes, however, are below the skin – the new G-Class gets a redesigned interior, an all-new chassis plus the latest Mercedes engines to bring this old-fashioned 4×4 into the 21st century.
+
+Prefer the more rugged look of a current G-Class? Check out how much you could save on our deals page. Click ‘login’ in the top-right-hand corner to sign in and configure a brand-new car, or browse our extensive range of pre-reg, ex-demo, new, nearly new and used in-stock cars.
+
+    </string>
+
+    <string name="GClassNew">
+
+        Known in the US as "that expensive Jeep" and globally as the "G Wagon," the Mercedes-Benz G Class has been the statement of choice for celebrities and militaries since the 1970s. With the new G being unveiled late last year, we waited with baited breath for the AMG variant. And here it is.
+        While Arnold Schwarzenegger might be showing off his one-off battery-electric G Wagon to Jay Leno, most fans of the Mercedes G have been waiting to see what the factory performance arm, AMG, would do with the all-new G Class. Like the G of old, the new-generation of the Wagon brings that square-bodied, rough-and-tumble readiness with its look. Unlike previous generations, however, there is a lot more refinement to justify the triple digit price tag on the Mercedes-Benz G Class: smaller door gaps, better sound dampening, more luxurious interior fitment, and better technology.
+
+Now AMG has had its way and the Mercedes-AMG G 63 looks pretty damn sweet. Side strips with the AMG emblem start off the changes to the new G 63, but more obvious external differences like the wider-spaced slots on the AMG-exclusive grille and large side intakes around a sculpted tubular AMG- bumper guard can also be easily seen. A bit more flair to the wheel arches (to accommodate wider AMG-specific wheels), trim additions to the rear bumper, and "V8 Biturbo" emblems on the fenders are more marks of this AMG-tuned model for the G Wagon.
+
+    </string>
+
+    <string name="G_AMG_66"> revealed more details about the G 500 4x4² which is a model brother of the Mercedes-Benz G 63 AMG 6x6. Suitable for extreme condition terrains, the concept vehicle looks so powerful and domineering that even the Apocalypse wouldnt be able to stop its march! In terms of power, it is provided by a twin-turbo 4.0-liter V8 engine that stands out with extreme delivery of horses! The unit is capable of generating 422 hp (310 kW). Mercedes stayed tight-lipped regarding any performance specifications but mentioned that the new engine would meet the Euro 6 emission standards.
+
+Nevertheless, what we know is that the G 500 4x4² benefits from an all-wheel drive with portal axles and a returned suspension with two spring/damper struts on every wheel. The off-road capabilities are perfected thanks to the 450mm of ground clearance, a fording depth of 1000 mm and 52° and 54° angle of approach and departure.
+
+Following the path of its sibling, Mercedes-Benz G 500 4x4² receives an AMG front bumper, carbon fiber flares, a roof-mounted LED light bar, stainless steel underbody guards and an impressive side exhaust. Moreover, the aggressive look of the vehicle is further characterized by a 22-inch 325/55 R 22-sized wheels fitted with off-road tires. For those who want to use the G 500 4x4² off the beaten track, there are off-road 37x12.5x18-inch MT tires available as an option too.
+
+Mercedes hasn't released any images of the interior but said that the striking G 500 4x4² will impress with attractive leather seats adorned with DYNAMICA diamond-designed quilting. Additionally, there is DINAMICA trim for the roof liner and the body pillars.
+
+According to the company, a production variant might or might not be taken into consideration, depending on the reaction which show car will receive.
+    
+    </string>
+
+
+    //==============================================================================================
+
+
+    <string name="GL2013">The 2012 Mercedes-Benz GL-Class is the automotive equivalent of a private jet. Its big, powerful, expensive and excessive. In short, its everything that conventional wisdom tells us is wrong in choosing a vehicle. But thats probably because conventional wisdom doesnt have deep pockets or a large brood. For those who do, the GL makes perfect sense. It provides families who prefer (and can afford) to travel in an executive-level manner, all the creature comforts, safety and space one can imagine. So just because its a large luxury people mover doesnt mean its an impractical choice, especially when you consider its audience.
+
+The 2012 GL-Class not only offers a long list of amenities, it also brings with it three-row seven-passenger seating. That means buyers arent forced to step down to a non-luxury brand in order to make room for their four or more children. However, if all this passenger room is not something you plan to utilize regularly but you still yearn for the refinement and craftsmanship of a Mercedes SUV, the ML-Class is an excellent choice.
+
+Fresh for 2012 are handful of minor revisions to the exterior and interior, the most notable being the newly standard LED daytime running lamps.
+
+Comfort And Utility
+
+The GL-Class delivers interior packaging in a way that is unique to the Mercedes brand. Even its practical features somehow feel luxurious. Materials are high in quality, and nothing feels cheap or rushed. The layout of the controls is enjoyably ergonomic, and there's a solid, tactile feel. The entire cabin is an excellent example of what fine craftsmanship should be.
+
+Seating at all positions is comfortable and highly supportive. That includes the third row, too, which is generally compromised on other vehicles, even in the luxury class. The GL's front seats are particularly superb offering eight-way power, heat and driver side memory.
+
+Interior space is cavernous and highly flexible, along the GL to change from grand people mover to serious cargo hauler by folding all the seats down. Really, it could carry just about any combination of passenger and cargo. An optional power liftgate makes the task of loading and unloading through the rear even easier.
+
+Upscale features for the GL are in abundance, including dual-zone climate control, a multifunction steering wheel, leather upholstery and front and rear sunroofs, to name a few. Options are plentiful enough for anyone's tastes. Sure, the options will jack up the price considerably, but for those who want comfort and exclusivity, it's here for the taking.
+    
+    </string>
+
+    <string name="GL_2016">The seven-seat GL-Class SUV has standard all-wheel drive, three rows of seats and four available engines: two turbocharged V-8s, a turbo-diesel V-6 or a turbocharged gas V-6. As with other Mercedes models, the top-shelf version of the GL-Class is a performance-oriented AMG edition, the GL63 AMG. Competitors include the Audi Q7, Cadillac Escalade, Infiniti QX80 and Lexus LX 570.
+    
+    </string>
+
+    <string name="GL_2015">
+        In the 1960s Avis, the rental car company, ran a campaign advertising, "When you're only No. 2, you try harder." Its point? Because it was second fiddle to Hertz, Avis had to be better in order to succeed. Its tough being on top with a target on your back. Do you stay the course and hope you can retain your dominance? Or are you better off continuously innovating, hoping that keeps you the king of the hill? Mercedes-Benz was faced with this conundrum pretty recently with the GL-Class. As it was our 2013 Sport/Utility of the Year, Mercedes could have left well enough alone, but instead its upgraded the bread-and-butter 2015 Mercedes-Benz GL450 to make it even stronger than before.
+
+So whats changed with the Mercedes GL-Class since it drove off with our Golden Calipers in 2013? The answer is found under the hood of the mid-level 2015 GL450. Back in 2013, the GL450 was powered by a big ol 4.7-liter, twin-turbo V-8 making 362 hp and 406 lb-ft of torque. The V-8 was stout, giving the 2013 GL450 the power to hit 60 mph in 6.0 seconds and finish the quarter mile in 14.5 seconds at 96.6 mph. That big V-8 acceleration performance also sadly meant big V-8 fuel economy figures. The very same 2013 GL450 4Matic achieved 14/19/16 mpg city/highway/combined on the EPAs fuel economy tests.
+
+The fix for the Mercedes-Benz GL450, then, was downsizing. Our 2015 GL450 4Matic puts the 4.7-liter V-8 on ice and replaces it with a more efficient and almost as powerful 3.0-liter, twin-turbo V-6. Paired with the same seven-speed automatic the old V-8 models got, the new GL450 makes the same 362 hp but only 369 lb-ft of torque, 37 lb-ft less than before. With slightly less power on tap, it's no surprise that the updated GL450 is also slightly slower; accelerating from 0-60 mph took our 2015 GL450 6.2 seconds, and the quarter mile took 14.7 seconds at 94.6 mph. That said, fuel economy improved significantly. The V-6-powered GL450 nets 17/21/19 mpg on the EPA cycle and a respectable 16.7/20.7/18.3 Real MPG. As far as the other performance metrics go, the GL450 was able to come to a complete stop from 60 mph in just 126 feet, average 0.81 g on the skidpad, and lap the figure eight in 27.3 seconds at 0.68g average.
+
+Outside the confines of the test track, the GL is still a pretty stellar vehicle, even if it's starting to show its age a bit in certain aspects. The GL450 feels potent and plenty quick with a versatile engine that's just as happy humming along on the freeway as it is being thrashed at its limit. The GL's steering rack is quick and light, though I'd prefer a touch more heft. The GL's brakes could also use more bite, as they don't seem to truly engage until at least a quarter of the way through the pedal's travel.
+        
+    </string>
+
+    //==============================================================================================
+
+
+    <string name="S2018">Based on appearances alone, we could understand any confusion caused by this mid-cycle refresh, but if you go beyond the superficial, the 2018 Mercedes-Benz S-class sedan lineup really is thoroughly updated. Aside from subtly altered trim, bumpers, and wheel designs, every version from the lowest-level S-class to the horsepower-addled S63 and S65 AMG models to the range-topping Maybach twins receives notable changes.
+
+New Engines Beget New Model Designations
+Look closely, however, and you’ll notice new badges that indicate where the real changes lurk. S450 and S560 are the new S-class designations boasting new V-6 and V-8 engines. The S450 essentially replaces the outgoing six-cylinder S550e plug-in-hybrid model (there’s no word on the plug-in’s fate) and is powered by a 362-hp twin-turbocharged 3.0-liter V-6. The S560 resurrects a hallowed S-class nomenclature and succeeds the old S550. It also chucks that model’s twin-turbocharged 4.7-liter V-8 for a smaller, also-twin-turbocharged 4.0-liter unit. A number of recent Benzes share this new engine; in the S-class it makes 463 horsepower (14 more than the old 4.7) and 516 lb-ft of torque (same as before). On both S iterations, the engines are mated to a nine-speed automatic transmission.
+    
+    </string>
+
+    <string name="S_550">
+        C And K AUTO IMPORTS is pleased to announce the arrival of this 2017   Mercedes Benz S550 CONVERTIBLE. Finished in the most desirable combination of BLACK with DESIGNO SADDLE BROWN Leather this immaculate, well maintained, pre-owned S550 is in extraordinary original condition. The paint looks flawless and has a deep luster and brilliant shine. The interior is covered in DESIGNO SADDLE BROWN Leather and shows very little wear. All power options and accessories work perfectly; the air conditioning is ice cold, the stereo sounds fantastic, and there are no foul odors of any kind.  The factory wheels are in beautiful condition and free of any blemishes.
+        
+    </string>
+
+    <string name="S_2018N">
+
+        When a successful car company makes significant changes to its flagship luxury sedan, those close to the auto world take notice. An automaker’s flagship often showcases the latest designs and newest technologies, and the updated 2018 Mercedes-Benz S-Class certainly does that. Still based on a platform introduced in 2014, the 2018 S-Class offers a wide range of updated engines, ultra-luxurious interiors and a very long list of high-end standard features. Mercedes says more than 6,500 changes were made for 2018, making this the most comprehensive refresh ever for the S-Class.
+
+    </string>
+
+    <string name="S_550_2012">Over the past few months, we’ve tested two alternative-fuel versions of the Mercedes-Benz S-Class (the S350 Bluetec diesel, and the S400 Hybrid) so it only felt appropriate to get the standard S550 out for a test. If you’ve read those pieces, then you’ll know that this is the S-Class that I’m partial to (ignoring the AMG and V-12 versions), and for good reason.
+
+If you want a smooth luxury sedan, than the S550 is where you go. Unlike the S400 and its unrefined (but spookily quiet) hybrid drivetrain and the S350 and the narrow powerband of its diesel mill, the S550 delivers uninterrupted power across the rev range. The 4.6-liter biturbocharged V-8 delivers 429 horsepower and 516 pound-feet of torque in big helpings, allowing the large sedan to accelerate with real ease.
+
+Despite its gas engine, the S550 doesn’t pay much of a penalty when it comes to overall noise. Sure, there’s a noticeable growl from under the hood on hard acceleration, but at cruising speed, I’d argue that this S-Class is at least as quiet as the diesel model, and near as quiet as the hybrid. That alone is enough for me.
+
+It’s a bit more expensive than either the Bluetec or the Hybrid, but considering how much more refined it is, and how much better it performs, the S550 seems to be worth the extra coin.
+
+—Brandon Turkus, Online Editor and Test Fleet Manager
+
+The 550 is sort of in the sweet spot of the S-Class lineup. All the other ones are either smart on their fuel consumption, or are insanely powerful. If you’re a meat-and-potatoes kind of person, this is the model for you. It has plenty of power, but it feels perfectly relaxed and effortless under normal driving.
+
+On the flip side of that coin, it also feels the least special, insomuch as a super-luxurious, 429-horsepower sedan from Mercedes can. The alternatively powered 350 and 400 not only use less fuel, but their characters are quite different from the rest of the S-Class. The 600 has a V-12, which is a special rarity, and the AMG cars get all sorts of content the other models don’t. If you’re going to spend over $90,000 on a car, shouldn’t it feel extraordinary? That depends on whom you ask, as folks have different ideas of what “extraordinary” consists of. But it seems to me that the S550 is the only S that doesn’t have something the other cars don’t.
+
+Really, though, car buying often comes down to practicality, and the middle car is likely the one with the widest appeal. No matter what is under the hood, too, the S-Class is an impressive vehicle. This 4.6-liter biturbo V-8 is a really solid performer, and you can still get into it for under $100K.
+
+
+</string>
+
+
+    <string name="S_Royal">Immortalized in California, this unique Mercedes S 600 named Royale in very retro grille refers to the limo 1960s.Split into retro limousine and luxury sedan today, a customer would have commissioned this unique Mercedes.
+
+Between S-Class, SLS and Pullman old
+Given this picture, it’s astonishment. For starters, no official information is available for the moment. Only a member of the Dutch site  visually communicated, adding that the car was parked outside the studios of Galpin Auto Sports, Californian preparer specializing in modifications Mustang and having revealed in August 2015 in Pebble Beach Rocket, designed by Henrik Fisker.
+In the photo and video, we can deduce that the base is a Mercedes-Benz S-Class long version (betrayed by mirrors and inside), whose body was heavily revised, with flagship SLS AMG and lights, low chrome grille and cuts from the 600 in 1964. The refined Pullman rear is also a clear reference to the latter.
+The engine, if one refers to the family name “600” written on the stern, would be the 6.0-liter V12 from 530 horses. As for the possible cost of this achievement Royale Mercedes-Benz 600, it would exceed 250,000 euros, the base price already reached 186 900 euros in France.
+    
+    
+    </string>
+
+    //==============================================================================================
+
+
+    <string name="SLS_2011">
+        
+        
+        The Mercedes-Benz SLS AMG is a rare car to spot on the road -- and it looks like the German automaker is making sure it stays that way, too. The SLS was unveiled just four years ago at the Frankfurt Auto Show, and the latest news out of Germany indicates that Mercedes-Benz has made plans to put a complete stop to SLS production sometime in the middle of 2014.
+
+But if youre a fan of the 583-horsepower, gullwing-equipped, 6.2-liter, V-8-powered supercar, you still have one more chance to get your hands on a special-edition sendoff model. The SLS AMG will be making its final appearance at the 2013 L.A. Auto Show (about a week from now), where Mercedes-Benz will launch its last SLS model in the form of a special-edition car that its calling the SLS AMG - Final Edition. Or maybe it will be called the SLS Final Edition. Or the Final Edition SLS AMG. Or something like that. Lets just say "Final Edition" is likely to be in there somewhere.
+
+Anyway, the name doesn't really matter all that much. The bigger point is this: Mercedes-Benz is taking the SLS AMG off the showroom floor before it becomes outdated, or so abundant that people eventually tire of seeing it on the roads. As it stands today, the SLS AMG is a fantastic machine, one that remains exclusive, desirable and rare -- but it can only remain that way if Mercedes-Benz stops building them while people still want them. See the quandary? I suppose it's always best to leave them wanting more.
+        
+    </string>
+
+
+    <string name="SLS_2014">It’s hard to believe that the Mercedes SLS AMG has been around since 2011. It wasn’t that long ago that we were all waiting in anticipation of the supercar’s debut and now, with the SLS getting its discharge papers, and Mercedes has decided to give the mighty supercar one last hurrah in the form of the SLS AMG GT Final Edition.
+
+Dressed in the same two-tone red and black finish that has become a staple for the SLS AMG, the Final Edition model also carries a number of styling cues that distinguishes itself from the rest of its brethren. It’s highly appropriate too, considering that this is the final run of SLS AMG models — all 350 of them — so it has to stand out in more ways than one.
+
+The SLS AMG GT Final Edition comes with plenty of new and modified components, including a new carbon-fiber hood and front splitter, a redesigned front bumper, and new brakes. An updated rear wing is also part of the program, as are darkened light surrounds, and carbon-fiber mirror housings.
+
+Performance numbers remain the same, which means that the supercar will receive a 6.3-liter, V-8 engine that produces 591 horsepower and 479 pound-feet of torque, allowing it to hit 60 mph in a scant 3.7 seconds to go with a top speed of 198 mph.
+
+Like what was said, the Mercedes SLS AMG GT Final Edition will only have 350 units built, so if you’re looking to scoop one up, you need to be sitting at your local Mercedes dealer the morning it opens the order books.
+
+
+    </string>
+
+
+    <string name="SLS_BLACK">
+
+        The fastest Mercedes-Benz-badged car in the world is about to get a whole lot hotter. And more expensive.
+With the paint still wet on its SLS GT, AMG is showing the world the even-faster, even-angrier SLS Black Series.
+With more power, less weight, tauter handling and, bizarrely, a lower top speed, AMG claims its fifth Black Series model will bring the handling package of its SLS GT3 race car to the road.
+It has eked another 44kW of power from the standard SLS Coupe’s 6.2-litre V8 to peak at 464kW and slashed 70kg from the standards SLS to weigh in at 1550kg. It’s also 29kW upstream of the just-released SLS GT as well.
+AMG combines this with an upgraded version of its seven-speed paddle-shift transmission, a coil-over suspension system, carbon-ceramic brakes, sticker tyres and an electronic diff lock to create the most potent rear-wheel drive car it’s ever built. It results in a snarling, snorting monster that blasts to 100km/h in 3.6 seconds and tops out at 315km/h, but AMG insists the SLS Black Series does its best work in corners. It also has a shorter final drive ratio than the standard SLS or the SLS GT (which explains its slightly slower top speed).
+The Black Series features wider, more aggressive bodywork, bigger air intakes, darkened headlights, deep front and rear undertrays, a massive air outlet carved into the bonnet and a large rear diffuser. For those who aren’t so concerned with elegance, there’s also the option of a huge, race-bred rear wing.
+The already-lean internals of the all-alloy V8 have been overhauled, with a new valve train, fresh camshafts, upgraded camshaft geometry and new bucket tappets taken from racing technology.
+The air intake ducting is also freer breathing to help the engine’s maximum speed jump from 7200rpm to a more race-like 8000rpm, but the Black Series pays a price in torque, which not only falls from the SLS GT’s 650Nm to 635Nm, but arrives 750rpm later in the rev range, too. The Black Series AMG’s crank assembly has also been modified to cope with the higher peak engine pressures. The upgrades include new crankshaft bearings and new bolts for the connecting rods.
+Both the entire oil and water pumping systems are upgraded, including a new oil pump and bigger diameters for the crankshaft’s oil bores.
+But the most innovative change to the engine is actually outside the block, with AMG adding a gas strut brace between the engine and the body to stop it moving under load changes. On a racetrack, this system is supposed to stiffen or slacken to compensate for “undesired load change reactions in highly dynamic driving on the racetrack,” according to AMG development boss, Tobias Moers.
+Oddly, though, while the repowered SLS Black Series is the most powerful conventional car AMG has ever built, it’s not the most powerful car on AMG’s books. Its 464kW of power looks astonishing until you consider that the electric version of the SLS cranks out 552kW of power and, with 1000Nm, has 365Nm more torque, too.
+The search for performance doesn’t end at the Black Series’ exhaust manifold, either. AMG has developed its own fully titanium exhaust set up for the Black Series that not only cuts 13kg from the old steel system, but weighs just 17kg overall. It has mufflers in the centre and at the rear of the car and uses fan-type exhaust pipes to free up the gas flows as well to improve responsiveness.
+AMG has also taken extraordinary steps to help the handling, including dropping its seven-speed DCT transmission 10mm lower into the chassis and then using smaller versions of the engine’s gas strut to keep it locked in place regardless of the torque load on it. Oddly, though, the Black Series transmission spreads its expertise across Comfort, Sport, Sport+ and Manual modes, even though the just-launched (and supposedly softer) SLS GT has dumped the Comfort setting altogether.
+Nevertheless, the Black Series adopts the software developed for the SLS GT to cut its shift times to 60 milliseconds and introduces a double-declutching function for more aggressive downshifts. Not that the SLS has ever suffered from subtlety, but there’s now an enormous blip on the throttle when changing down in Sport or Manual modes. It also has a new (and somewhat belated) “temporary manual” mode, so the driver can just pluck a shift paddle to change gear, even if the car is in one of its automatic modes.
+One key to the improved performance is the shorter final-drive ratio already mentioned, though some might find it odd that AMG has replaced the SLS’s standard mechanical limited-slip diff with an electronic diff lock. Integrated into the transaxle unit, the newly developed diff lock comes with variability in locking on both acceleration and deceleration and has more sensitive electronics than any system of its type. It means AMG has also tuned the ESP settings to the diff lock, including different levels of aggression for ESP, ESP Sport handling mode and ESP Off. It also hooks in to the Race Start launch-control function.
+While the Black Series still rides on aluminium double wishbones all around, that’s about where its similarities to the standard car end. The hunt for better track performance called for a complete overhaul of the SLS’s handling package and the adaptive suspension of the AMG Ride Control is now tauter, with just Sport and Sport+ options for its drivers, plus individual settings.
+Spring retainers for the coil-over springs provide drivers the facility to tweak individual wheel loads for individual circuits or conditions, and AMG has stretched the track widths of the SLS by 20mm at the front and 24mm at the rear to add grip in fast corners. Elastokinematics are stiffer by 50 percent on the front axle and 42 percent on the rear for the same reason.
+Upgraded 10-spoke alloys, measuring 10×19 at the front and 12×20 at the rear, save the SLS Black Series four kilograms, while it also scores a new front stabilizer bar and new front wheel carriers. The steering has also been tweaked, but the real grip will be unlocked via its custom-made Michelin Pilot Sport Cup 2 rubber, with 275/35 R19s at the front and 325/30 R20s lurking at the back.
+Inside the lighter wheels sits a monster set of carbon-ceramic rotors, stretching out to 402mm at the front and 360mm at the back. The ventilated rotors are harder than the optional carbon-ceramic brakes on the standard SLS and, at 16kg lighter than the conventional brakes, save around 40 percent in weight. That’s no accident, because one of the keys to the car’s improved performance in the mid-range is its 70kg weight reduction, which helps it to a 2.45kg/hp power-to-weight figure.
+The weight cull has affected everything from the bonnet to the small panel behind the seats and the diagonal underbody braces. Even the torque tube, which delivers the engine’s torque to the rear-mounted gearbox, is carbon-fibre and cuts the 26.6kg cast-aluminium standard part down to 13.3kg. The carbon-fibre-reinforced plastic drive shaft inside the torque tube is only 4.7kg.
+Even the conventional battery has been thrown out and replaced by a lightweight (8kg lighter) Lithium-Ion unit, normally found in electric cars or hybrids.
+The cabin has also contributed to the lower weight, with AMG Sports seats cutting 15kg from the standard electric units. Ditching the Comand unit, with its satnav and entertainment system operations, has saved another 6kg.
+
+    </string>
+
+
+    <string name="SLS_GTR">
+
+        Mercedes-AMG debuted the GT R—the latest iteration of their two door sports car—at the Goodwood Festival of Speed. Heavily inspired by its racing version sibling, the GT 3 (which won 1st, 2nd, 3rd, 4th and 6th place with the five cars entered in the grueling 24 hour race at Germanys Nürburgring just a few weeks ago), the street legal GT R features a lot of new technology, material innovation and more curvy lines.
+        The GT R has good genes. Its lighter than both the GT and GT S and sports the seductive Panamericana grille which debuted on the GT 3, giving the car a well-earned "yes, I know I'm good looking" snarkiness. The stance is wider to accommodate bigger tires, creating curvier lines due to its larger front and rear fenders. New body panels in various flavors of aluminum and carbon fiber, a rigid rear wing that can be manually adjusted, a fender vent and fin that allows hot air from the engine to escape and an air management system controlled by louvers that adjust the car to provide optimum aerodynamics add to its looks and performance. The chassis features a front deck made from magnesium, forged aluminum wheels, and new components like the carbon fiber tunnel cross which provide rigidity, all while reducing weight.
+
+    </string>
+
+
+    <string name="Classic_w108">
+        
+        The Mercedes-Benz W 108 is a timeless car. Hard to believe that this luxury-class model series was launched a full 50 years ago. Its design was created by the then Mercedes-Benz stylist Paul Bracq. In terms of comfort and spaciousness, a W 108 still sets standards.
+        
+    </string>
+
+
+    <string name="Classic_300SL">By the late 1950s, open-top two-seaters were so popular that Mercedes-Benz decided to convert the 300 SL (W 198). In spring 1957 the legendary “Gullwing” was succeeded by the 300 SL Roadster, thus bringing the thrill of open-top driving to the range of high performance sports cars. Equipped with a new rear axle design, this model boasted state-of-the-art handling characteristics and in 1961 became the first Mercedes-Benz production car to be given disc brakes on all four wheels.
+    Concealed beneath the stylish bodywork, the spaceframe remained the roadster’s loadbearing structure, although it featured a number of modifications. Lower at the sides, the new frame design now made conventional front-hinged doors possible. This not only made getting into and out of the car easier, it was also a key design prerequisite for any opentop vehicle. Thanks to the frame’s flatter rear-end and a redesigned fuel reservoir, the spare wheel was now stowed underfloor and the area beneath the boot lid could properly be called a boot. The soft top was easy to operate and was stowed under a purpose-built hatch behind the seats when not required. From late 1958 Mercedes-Benz also optionally supplied an elegant and easy-to-fit hardtop for use when the weather turned colder. In 1957 a slimmed-down version of the 300 SL Roadster, the 300 SLS, made a number of headlinegrabbing appearances when Paul O’Shea won Class D of the American Sports Car Championship by a convincing margin.
+
+    </string>
+
+    <string name="Classic_220S">
+        
+        Our journey begins with a predecessor to the Mercedes S-Class, the Mercedes W111/W112. Known for its American-style tail fins, the car was nicknamed Heckflosse which means tail fin in German. Always focussing on advanced safety and comfort for passengers, W11/W112 models were the very first to feature a safety steering wheel to prevent people from the spear-effect in a car crash. Power steering, air-suspension and an automatic gearbox were standard across all models. But for added luxury, the W111 220 editions were available with a 2.2 litre 6-cylinder engine and the W112 300SE was fitted with the more powerful 3 litre 6-cylinder. But this was only the beginning...
+        
+    </string>
+
+
+    <string name="Classic_Lovly">
+
+        Please just watch this car.
+
+    </string>
+
+
+    <string name="Classic_FirstCar1">
+
+        The first stationary gasoline engine developed by Carl Benz was a one-cylinder two-stroke unit which ran for the first time on New Year’s Eve 1879. Benz had so much commercial success with this engine that he was able to devote more time to his dream of creating a lightweight car powered by a gasoline engine, in which the chassis and engine formed a single unit.
+
+The major features of the two-seater vehicle, which was completed in 1885, were the compact high-speed single-cylinder four-stroke engine installed horizontally at the rear, the tubular steel frame, the differential and three wire-spoked wheels. The engine output was 0.75 hp (0.55 kW). Details included an automatic intake slide, a controlled exhaust valve, high-voltage electrical vibrator ignition with spark plug, and water/thermo siphon evaporation cooling.
+
+    </string>
+
+    <string name="First_Car2">
+
+        Mercedes Benz is one of the most celebrated names among the Luxury automobile brands in the world. The German automobile company has been around for more than a century, now operated by Daimler-Benz and is headquartered in Stuttgart, Germany. The people behind Mercedes are responsible for the dawn of modern day internal combustion engine, in true sense they invented the automobile.
+
+
+    </string>
+
+    <string name="First_Car3">
+
+        It is probably no consolation for Port Elizabeth to claim that it was the first town in South Africa through which a motor vehicle was shipped. It is only Pretoria that can rightfully make the more prestigious claim that it was first town in which the first car was driven in South Africa. This occurred in 1897 at Berea Park.
+
+Nevertheless, Port Elizabeth would not be far behind.
+
+Main picture: Mr William Adcock, Mayor of Walmer, in his 1896 Benz Velo with his passenger Mr Charles Lovemore
+
+
+Debut of the first horseless carriage in South Africa
+In 1896, John Percy Hess of Pretoria decided to import South Africa’s first car. He requested his bank, the Bank of Africa, to arrange payment to the manufacturer, Benz And Co. of Mannheim, Germany. The car was shipped to Port Elizabeth in 1896 and transported to Pretoria. Subsequently Hess became the sole agent for Benz Motors in South Africa
+        The first motor car ride in South Africa was made on 04 January 1897 at Berea Park in Pretoria. John Percy Hess drove his two-seater Benz Velo for the first time. His first passengers were A.E. Reno, his business partner, and W.J. Leyds, the State Secretary. President Paul Kruger was invited for the ride, but declined and watched from the sidelines. A golden medal was minted for the occasion. Spectators had to pay 2 shillings and 6 pennies entrance fee for the pleasure of witnessing this wonder, the horseless carriage.
+
+A week later, the Benz was shown at the Wanderers in Johannesburg and sold to a coffee importer, A.H. Jacobs. He showed the car off gratis to anyone who purchased 500g of coffee from his Pritchard Street shop. A few months later, the car destroyed in a fire And....
+
+    </string>
+
+
+    <string name="Biography_Benz">
+
+        Mercedes-Benz traces its origins to Karl Benzs creation of the first petrol-powered car, the Benz Patent Motorwagen, financed by Bertha Benz[2] and patented in January 1886,[3] and Gottlieb Daimler and engineer Wilhelm Maybachs conversion of a stagecoach by the addition of a petrol engine later that year. The Mercedes automobile was first marketed in 1901 by Daimler-Motoren-Gesellschaft (Daimler Motors Corporation).
+
+Emil Jellinek, an Austrian automobile entrepreneur who worked with DMG, created the trademark in 1902, naming the 1901 Mercedes 35 hp after his daughter Mercedes Jellinek. Jellinek was a businessman and marketing strategist who promoted "horseless" Daimler automobiles among the highest circles of society in his adopted home, which, at that time, was a meeting place for the "Haute Volée" of France and Europe, especially in winter. His customers included the Rothschild family and other well-known personalities. But Jellineks plans went further: as early as 1901, he was selling Mercedes cars in the New World as well, including to US billionaires Rockefeller, Astor, Morgan and Taylor. At a race in Nice in 1899, Jellinek drove under the pseudonym "Monsieur Mercédès", a way of concealing the competitors real name as was normal in those days. The race ranks as the hour of birth of the Mercedes-Benz brand. In 1901, the name "Mercedes" was registered by Daimler-Motoren-Gesellschaft (DMG) worldwide as a protected trademark.[4] The first Mercedes-Benz brand name vehicles were produced in 1926, following the merger of Karl Benzs and Gottlieb Daimlers companies into the Daimler-Benz company.[3][5] On 28 June 1926, Mercedes-Benz was formed with the merger of Karl Benz and Gottlieb Daimlers two companies.
+
+Gottlieb Daimler was born on 17 March 1834 in Schorndorf. After training as a gunsmith and working in France, he attended the Polytechnic School in Stuttgart from 1857 to 1859. After completing various technical activities in France and England, he started work as a draftsman in Geislingen in 1862. At the end of 1863, he was appointed workshop inspector in a machine tool factory in Reutlingen, where he met Wilhelm Maybach in 1865.[citation needed]
+
+Throughout the 1930s, Mercedes-Benz produced the 770 model, a car that was popular during Germany's Nazi period. Adolf Hitler was known to have driven these cars during his time in power, with bulletproof windshields.[6] Most of the surviving models have been sold at auctions to private buyers. One of them is currently on display at the War Museum in Ottawa, Ontario. The pontiff's Popemobile has often been sourced from Mercedes-Benz.[7] In 1944, 46,000 forced laborers were used in Daimler-Benz's factories to bolster Nazi war efforts. The company later paid $12 million in reparations to the laborers' families.[8] Mercedes-Benz has introduced many technological and safety innovations that later became common in other vehicles.[9] Mercedes-Benz is one of the best-known and established automotive brands in the world.
+
+For information relating to the famous three-pointed star, see under the title Daimler-Motoren-Gesellschaft including the merger into Daimler-Benz.
+
+    </string>
+
+
+</resources>

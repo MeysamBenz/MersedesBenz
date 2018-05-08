@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mercedes_benz.MainActivity">
+
+
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#EEEEEE
+"
+        android:id="@+id/appBar">
+
+        <android.support.design.widget.CoordinatorLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/coordinaitor">
+
+       <RelativeLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent">
+
+         <android.support.design.widget.TextInputLayout
+             android:layout_width="match_parent"
+             android:layout_height="60dp"
+             android:id="@+id/floatlabal">
+
+             <EditText
+                 android:id="@+id/edit1"
+                 android:layout_width="match_parent"
+                 android:layout_height="50dp"
+                 android:layout_marginLeft="30dp"
+                 android:layout_marginRight="70dp"
+                 android:layout_marginTop="10dp"
+                 android:drawableLeft="@drawable/ic_insert_link_black_24dp"
+                 android:hint="  Insert Web Address..."
+                 android:maxLines="1"
+                 android:textSize="15sp" />
+
+         </android.support.design.widget.TextInputLayout>
+
+           <ImageButton
+               android:id="@+id/search"
+               android:layout_width="40dp"
+               android:layout_height="40dp"
+               android:layout_above="@+id/refresh"
+               android:layout_alignParentEnd="true"
+               android:layout_alignParentRight="true"
+               android:layout_marginEnd="16dp"
+               android:layout_marginRight="16dp"
+               android:background="#00000000"
+               android:src="@drawable/ic_search_black_24dp" />
+
+           <ImageButton
+               android:id="@+id/refresh"
+               android:layout_width="40dp"
+               android:layout_height="40dp"
+               android:layout_alignLeft="@+id/search"
+               android:layout_alignParentBottom="true"
+               android:layout_alignStart="@+id/search"
+               android:background="#00000000"
+               android:src="@drawable/ic_refresh_black_24dp" />
+
+       </RelativeLayout>
+
+        </android.support.design.widget.CoordinatorLayout>
+
+    </android.support.design.widget.AppBarLayout>
+
+
+
+
+    <android.support.design.widget.TabLayout
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:id="@+id/tab1"
+        android:layout_below="@id/appBar"
+        android:background="#757575
+"
+        app:tabMode="scrollable"
+        app:tabGravity="fill"/>
+
+
+   <android.support.v4.view.ViewPager
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:layout_below="@id/tab1"
+       android:id="@+id/viewPager"/>
+
+
+
+
+
+
+    <WebView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/web1"
+        android:visibility="gone"/>
+
+</RelativeLayout>
