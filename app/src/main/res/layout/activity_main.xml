@@ -29,6 +29,8 @@
              android:layout_height="60dp"
              android:id="@+id/floatlabal">
 
+
+
              <EditText
                  android:id="@+id/edit1"
                  android:layout_width="match_parent"
