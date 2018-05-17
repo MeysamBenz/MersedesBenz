@@ -40,7 +40,7 @@ public class E_Class extends android.support.v4.app.Fragment {
 
         RecyclerView.LayoutManager layoutManager=new LinearLayoutManager( getActivity() );
         recyclerView.setLayoutManager( layoutManager );
-        RecyclerViewAdapter fragment__recyclerview=new RecyclerViewAdapter( arraylist,getContext() );
+        RecyclerViewAdapter fragment__recyclerview=new RecyclerViewAdapter( getContext(),arraylist );
         recyclerView.setAdapter( fragment__recyclerview );
 
         return view;

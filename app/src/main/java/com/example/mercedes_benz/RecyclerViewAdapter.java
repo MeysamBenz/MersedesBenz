@@ -1,17 +1,16 @@
 package com.example.mercedes_benz;
-
+import android.app.AlertDialog;
 import android.app.WallpaperManager;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.net.Uri;
 import android.os.Environment;
 import android.support.design.widget.Snackbar;
-import android.support.v4.app.INotificationSideChannel;
 import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -26,7 +25,8 @@ import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.util.ArrayList;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.List;
 
 /**
@@ -79,6 +79,50 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         Glide.with( _Context ).load( data_model.getImgCar() ).into( holder.carImg );
         holder.txtcarName.setText( data_model.getCarName() );
         holder.txtcarDescription.setText( data_model.getCarDescription() );
+
+        //============about save image in gallery=============
+//        holder.BtnSave.setOnClickListener( new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                final AlertDialog builder = new AlertDialog.Builder( _Context ).create();
+//                builder.setTitle( "save..." );
+//                builder.setMessage( "Are you sure save this file ? " );
+//                builder.setButton( " yes ", new DialogInterface.OnClickListener() {
+//                    @Override
+//                    public void onClick(DialogInterface dialogInterface, int i) {
+//
+//                        FileOutputStream fileOutputStream = null ;
+//                        File file = getDisc() ;
+//                        if(!file.exists() && !file.mkdir()){
+//                            Snackbar.make( holder.BtnSave,"Dont save!!",Snackbar.LENGTH_SHORT ).show();
+//                        }
+//                        SimpleDateFormat simpleDateFormat = new SimpleDateFormat(  );
+//                        String date = simpleDateFormat.format( new Date(  ) );
+//                        String name = "Image" + date + ".gpg";
+//                        String fileName = file.getAbsolutePath()+ "/" +name;
+//
+//                        File newFile = new File( fileName );
+//
+//                        try {
+//                            fileOutputStream = new FileOutputStream( newFile);
+//                            Bitmap bitmap = viewBitmap( holder.carImg,holder.carImg.getWidth(),holder.carImg.getHeight() );
+//                            bitmap.compress( Bitmap.CompressFormat.JPEG,100,fileOutputStream );
+//                            Snackbar.make( holder.BtnSave,"Save is successfull ",Snackbar.LENGTH_SHORT ).show();
+//                            fileOutputStream.flush();
+//                            fileOutputStream.close();
+//                        } catch (IOException e) {
+//                            e.printStackTrace();
+//                        }
+//
+//                        refreshing( newFile );
+//                        builder.show();
+//
+//                    }
+//                } );
+
+ //           }
+//        } );
+        //==========================================================================================
         holder.Btnwallpaper.setOnClickListener( new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -178,8 +222,6 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         carImg=(ImageView) itemView.findViewById( R.id.imgcar1 );
         cardView=(CardView) itemView.findViewById( R.id.card1 );
         linearLayout=(LinearLayout) itemView.findViewById( R.id.linear );
-
-
     }
 }
     //==============================================================================================
@@ -202,7 +244,7 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
 
     public File getDisc(){
         File file= Environment.getExternalStoragePublicDirectory( Environment.DIRECTORY_DCIM );
-        return new File( file,"" );
+        return new File( file,"photo" );
     }
 
 }

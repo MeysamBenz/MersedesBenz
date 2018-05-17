@@ -35,7 +35,7 @@ public class DataModel {
         return BtnShare;
     }
 
-    public int getBtnSend() {
+    public int getBtnwallpaper() {
         return Btnwallpaper;
     }
 
@@ -55,8 +55,8 @@ public class DataModel {
         BtnShare = btnShare;
     }
 
-    public void setBtnSend(int btnSend) {
-        Btnwallpaper = btnSend;
+    public void setBtnwallpaper(int btnwallpaper) {
+        Btnwallpaper = btnwallpaper;
     }
 
     public void setImgCar(int imgCar) {

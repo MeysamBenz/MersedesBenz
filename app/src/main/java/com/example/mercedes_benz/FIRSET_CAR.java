@@ -32,7 +32,7 @@ public  class FIRSET_CAR extends Fragment{
         list = new ArrayList<DataModel>();
 
         list.add( new DataModel( "First 1", getString( R.string.Classic_FirstCar1 ), R.id.share, R.id.message, R.drawable.firstcar1 ) );
-        list.add( new DataModel( "First 2", getString( R.string.First_Car2 ), R.id.share, R.id.message, R.drawable.firstcar2 ) );
+        list.add( new DataModel( "First 2", getString( R.string.First_Car2 ), R.id.share, R.id.message,R.drawable.firstcar2 ) );
         list.add( new DataModel( "First 3", getString( R.string.First_Car3 ), R.id.share, R.id.message, R.drawable.firstcar3 ) );
 
 

@@ -35,7 +35,7 @@ public class S_Class extends android.support.v4.app.Fragment {
         list.add( new DataModel( "S 550_2012", getString( R.string.S_550_2012 ), R.id.share, R.id.message, R.drawable.s550_2012 ) );
         list.add( new DataModel( "S 550", getString( R.string.S_550 ), R.id.share, R.id.message , R.drawable.s550) );
         list.add( new DataModel( "S_2018", getString( R.string.S2018 ), R.id.share, R.id.message, R.drawable.s2018 ) );
-        list.add( new DataModel( "S_2018New", getString( R.string.S_2018N ), R.id.share, R.id.message, R.drawable.s2018n) );
+        list.add( new DataModel( "S_2018New", getString( R.string.S_2018N ), R.id.share, R.id.message,R.drawable.s2018n) );
         list.add( new DataModel( "S_Royal", getString( R.string.S_Royal ), R.id.share, R.id.message, R.drawable.sroyall) );
 
 
