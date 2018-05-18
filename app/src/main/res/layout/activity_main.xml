@@ -12,8 +12,10 @@
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
         android:id="@+id/tab1"
-        android:background="@color/colorAccent"
+        android:background="@color/colorPrimary"
         app:tabMode="scrollable"
+        app:tabTextColor="#fff"
+        android:layout_marginTop="56dp"
         app:tabGravity="fill" />
 
 
@@ -22,6 +24,5 @@
        android:layout_height="match_parent"
        android:layout_below="@id/tab1"
        android:id="@+id/viewPager"/>
-
 
 </RelativeLayout>

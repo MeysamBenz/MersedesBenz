@@ -11,11 +11,11 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello BENZ WellCome YourSelf App..."
+        android:text="Mercedes Benz"
         android:layout_marginTop="30dp"
         android:textColor="#37474F"
         android:layout_centerHorizontal="true"
-        android:textSize="20sp"
+        android:textSize="30sp"
         android:textStyle="italic"
         android:id="@+id/splashText"/>
 

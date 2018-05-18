@@ -43,8 +43,8 @@ public class A_Class extends android.support.v4.app.Fragment{
 
         RecyclerView.LayoutManager layoutManager=new LinearLayoutManager( getActivity() );
         recyclerView.setLayoutManager( layoutManager );
-        RecyclerViewAdapter fragment__recyclerview=new RecyclerViewAdapter( getContext(),list );
-        recyclerView.setAdapter( fragment__recyclerview );
+        RecyclerViewAdapter recyclerViewAdapter=new RecyclerViewAdapter( getContext(),list );
+        recyclerView.setAdapter( recyclerViewAdapter );
 
         return view;
 

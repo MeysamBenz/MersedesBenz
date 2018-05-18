@@ -1,8 +1,6 @@
 package com.example.mercedes_benz;
-import android.app.AlertDialog;
 import android.app.WallpaperManager;
 import android.content.Context;
-import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
@@ -25,8 +23,6 @@ import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
 import java.util.List;
 
 /**
@@ -246,6 +242,8 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         File file= Environment.getExternalStoragePublicDirectory( Environment.DIRECTORY_DCIM );
         return new File( file,"photo" );
     }
+
+
 
 }
 

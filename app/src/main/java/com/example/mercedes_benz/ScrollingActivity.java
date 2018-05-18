@@ -11,6 +11,7 @@ import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -21,13 +22,23 @@ import java.io.IOException;
 
 public class ScrollingActivity extends AppCompatActivity {
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate( savedInstanceState );
         setContentView( R.layout.activity_scrolling );
+        ImageButton imageButton = (ImageButton) findViewById( R.id.btnback1 );
+        imageButton.setOnClickListener( new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                finish();
+            }
+        } );
+
+
         Toolbar toolbar = (Toolbar) findViewById( R.id.toolbar );
         toolbar.setTitle( getIntent().getStringExtra( "carName" ) );
-        setSupportActionBar( toolbar );
+      //  setSupportActionBar( toolbar );
 
         final TextView textView=(TextView) findViewById( R.id.Description );
         textView.setText( getIntent().getStringExtra( "carDescription" ) );

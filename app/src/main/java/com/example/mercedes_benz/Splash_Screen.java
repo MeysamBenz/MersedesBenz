@@ -14,6 +14,7 @@ public class Splash_Screen extends AppCompatActivity {
     private TextView splashText;
     private Handler handler;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate( savedInstanceState );
@@ -34,7 +35,7 @@ public class Splash_Screen extends AppCompatActivity {
                 alphaAnimation.setRepeatCount( 1 );
                 splash.startAnimation( alphaAnimation );
                 startActivity( new Intent( Splash_Screen.this,MainActivity.class ) );
-
+                finish();
             }
         },5000 );
 
