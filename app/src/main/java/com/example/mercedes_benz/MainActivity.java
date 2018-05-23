@@ -116,7 +116,7 @@ public class MainActivity extends AppCompatActivity {
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
                 switch (item.getItemId()){
                     case R.id.contact :
-                        Snackbar.make( navigation1,"Telegram Id : @MeysamManiei69"+"\n"+"Telephon Number : +989148893391",Snackbar.LENGTH_LONG ).show();
+                        Snackbar.make( navigation1,"Telegram Id : @MeysamManiei69"+"\n"+"Gmail : meysam.benz69@gmail.com",Snackbar.LENGTH_LONG ).show();
                         break;
 
                     case R.id.share :
